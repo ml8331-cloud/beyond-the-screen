@@ -1,0 +1,381 @@
+{
+  "trends": [
+    {
+      "week_start": "2024-12-29",
+      "masked_singer": 25,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-01-05",
+      "masked_singer": 21,
+      "floor_fox": 0
+    },
+    {
+      "week_start": "2025-01-12",
+      "masked_singer": 20,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-01-19",
+      "masked_singer": 18,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-01-26",
+      "masked_singer": 16,
+      "floor_fox": 0
+    },
+    {
+      "week_start": "2025-02-02",
+      "masked_singer": 21,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-02-09",
+      "masked_singer": 74,
+      "floor_fox": 4
+    },
+    {
+      "week_start": "2025-02-16",
+      "masked_singer": 62,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-02-23",
+      "masked_singer": 51,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-03-02",
+      "masked_singer": 52,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-03-09",
+      "masked_singer": 48,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-03-16",
+      "masked_singer": 49,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-03-23",
+      "masked_singer": 76,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-03-30",
+      "masked_singer": 67,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-04-06",
+      "masked_singer": 69,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-04-13",
+      "masked_singer": 59,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-04-20",
+      "masked_singer": 64,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-04-27",
+      "masked_singer": 70,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-05-04",
+      "masked_singer": 100,
+      "floor_fox": 0
+    },
+    {
+      "week_start": "2025-05-11",
+      "masked_singer": 40,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-05-18",
+      "masked_singer": 24,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-05-25",
+      "masked_singer": 21,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-06-01",
+      "masked_singer": 17,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-06-08",
+      "masked_singer": 17,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-06-15",
+      "masked_singer": 20,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-06-22",
+      "masked_singer": 17,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-06-29",
+      "masked_singer": 16,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-07-06",
+      "masked_singer": 17,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-07-13",
+      "masked_singer": 17,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-07-20",
+      "masked_singer": 19,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-07-27",
+      "masked_singer": 17,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-08-03",
+      "masked_singer": 17,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-08-10",
+      "masked_singer": 16,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-08-17",
+      "masked_singer": 15,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-08-24",
+      "masked_singer": 14,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-08-31",
+      "masked_singer": 14,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-09-07",
+      "masked_singer": 15,
+      "floor_fox": 1
+    },
+    {
+      "week_start": "2025-09-14",
+      "masked_singer": 19,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-09-21",
+      "masked_singer": 21,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-09-28",
+      "masked_singer": 16,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-10-05",
+      "masked_singer": 15,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-10-12",
+      "masked_singer": 19,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-10-19",
+      "masked_singer": 18,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-10-26",
+      "masked_singer": 20,
+      "floor_fox": 3
+    },
+    {
+      "week_start": "2025-11-02",
+      "masked_singer": 16,
+      "floor_fox": 3
+    },
+    {
+      "week_start": "2025-11-09",
+      "masked_singer": 16,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-11-16",
+      "masked_singer": 17,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-11-23",
+      "masked_singer": 19,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-11-30",
+      "masked_singer": 19,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-12-07",
+      "masked_singer": 21,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-12-14",
+      "masked_singer": 21,
+      "floor_fox": 3
+    },
+    {
+      "week_start": "2025-12-21",
+      "masked_singer": 25,
+      "floor_fox": 2
+    },
+    {
+      "week_start": "2025-12-28",
+      "masked_singer": 47,
+      "floor_fox": 2
+    }
+  ],
+  "youtube": [
+    {
+      "id": "7Cuq9u6Q5Ww",
+      "show": "The Floor",
+      "title": "First Look at the Floor Season 2 With Rob Lowe",
+      "channel": "Reality Club (@RealityClubFox)",
+      "published": "2024-09-05",
+      "views": 435953,
+      "likes": 184,
+      "like_precision": "exact",
+      "format": "Trailer",
+      "status": "public",
+      "url": "https://www.youtube.com/watch?v=7Cuq9u6Q5Ww",
+      "accessed": "2026-10-19",
+      "method": "Browser visible watch page, expanded description",
+      "like_per_1000_views": 0.422
+    },
+    {
+      "id": "9kFE61lMpOc",
+      "show": "The Floor",
+      "title": "First Look at Season 3 of The Floor With Rob Lowe",
+      "channel": "Reality Club (@RealityClubFox)",
+      "published": "2025-01-30",
+      "views": 194369,
+      "likes": 97,
+      "like_precision": "exact",
+      "format": "Trailer",
+      "status": "public",
+      "url": "https://www.youtube.com/watch?v=9kFE61lMpOc",
+      "accessed": "2026-10-19",
+      "method": "Browser visible watch page, expanded description",
+      "like_per_1000_views": 0.499
+    },
+    {
+      "id": "kNhKRdgHmMA",
+      "show": "The Floor",
+      "title": "1 Hour Of The Floor BUT It’s Only Trivia Duels!",
+      "channel": "Reality Club (@RealityClubFox)",
+      "published": "2026-07-12",
+      "views": 10690,
+      "likes": 66,
+      "like_precision": "exact",
+      "format": "Compilation",
+      "status": "public",
+      "url": "https://www.youtube.com/watch?v=kNhKRdgHmMA",
+      "accessed": "2026-10-19",
+      "method": "Browser visible watch page, expanded description",
+      "like_per_1000_views": 6.174
+    },
+    {
+      "id": "-590_wygTKw",
+      "show": "The Masked Singer",
+      "title": "All Season 14 Reveals Compilation",
+      "channel": "The Masked Singer (@MaskedSingerFOX)",
+      "published": "2026-04-02",
+      "views": 186068,
+      "likes": 2100,
+      "like_precision": "rounded display 2.1K",
+      "format": "Reveal compilation",
+      "status": "public",
+      "url": "https://www.youtube.com/watch?v=-590_wygTKw",
+      "accessed": "2026-10-19",
+      "method": "Browser visible watch page, expanded description",
+      "like_per_1000_views": 11.286
+    },
+    {
+      "id": "a9foLZVR_ig",
+      "show": "The Masked Singer",
+      "title": "The Clues: Snowcone | Season 14",
+      "channel": "The Masked Singer (@MaskedSingerFOX)",
+      "published": "2026-01-08",
+      "views": 18044,
+      "likes": 191,
+      "like_precision": "exact",
+      "format": "Clue package",
+      "status": "public",
+      "url": "https://www.youtube.com/watch?v=a9foLZVR_ig",
+      "accessed": "2026-10-19",
+      "method": "Browser visible watch page, expanded description",
+      "like_per_1000_views": 10.585
+    },
+    {
+      "id": "NVCRybSLd9s",
+      "show": "The Floor",
+      "title": "Rob Lowe Introduces Season 3 of the Floor",
+      "channel": "Reality Club (@RealityClubFox)",
+      "published": "2025-02-06",
+      "views": 1254,
+      "likes": 5,
+      "like_precision": "exact",
+      "format": "Introduction",
+      "status": "unlisted, excluded from chart",
+      "url": "https://www.youtube.com/watch?v=NVCRybSLd9s",
+      "accessed": "2026-10-19",
+      "method": "Browser visible watch page, expanded description",
+      "like_per_1000_views": 3.987
+    }
+  ],
+  "metrics": {
+    "weeks": 53,
+    "masked_mean": 30.641509433962263,
+    "floor_mean": 1.509433962264151,
+    "masked_peak": 100,
+    "masked_peak_week": "2025-05-04",
+    "floor_peak": 4,
+    "floor_peak_week": "2025-02-09",
+    "masked_spring_mean": 64.6923076923077,
+    "masked_summer_mean": 16.642857142857142
+  },
+  "trendsUrl": "https://trends.google.com/trends/explore?date=2025-01-01%202025-12-31&geo=US&q=The%20Masked%20Singer,The%20Floor%20FOX",
+  "accessed": "2026-10-19",
+  "disclaimer": "Independent application portfolio project. Not affiliated with, commissioned by, or endorsed by FOX Entertainment. No FOX internal data or campaign results."
+}

@@ -1,0 +1,11 @@
+{
+  "weeks": 53,
+  "masked_mean": 30.641509433962263,
+  "floor_mean": 1.509433962264151,
+  "masked_peak": 100,
+  "masked_peak_week": "2025-05-04",
+  "floor_peak": 4,
+  "floor_peak_week": "2025-02-09",
+  "masked_spring_mean": 64.6923076923077,
+  "masked_summer_mean": 16.642857142857142
+}
